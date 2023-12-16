@@ -1,0 +1,31 @@
+Topic,Question
+Random Forest,What is Random Forest?
+Random Forest,Does Random Forest need pruning? Why or Why not?
+Random Forest,What are the advantages of Random Forest?
+Random Forest,What are the disadvantages of Random Forest?
+Random Forest,How is Random Forest related to Decision Tree?
+Random Forest,How is Random Forest related to Boosting Method?
+Random Forest,How is Random Forest related to Bagging Method?
+Random Forest,How is Bootstrapped used in Random Forest?
+Random Forest,How does Random Forest give output for Classification and Regression problems?
+Random Forest,What hyperparameters Random Forest has?
+Logistic Regression,When Logistic Regression can be used?
+Logistic Regression,What is the difference between Logistic Regression and Linear Regression?
+Logistic Regression,What are the advantages of Logistic Regression?
+Logistic Regression,What are the disadvantages of Logistic Regression?
+Logistic Regression,How is Logistic Regression trained?
+Logistic Regression,What is cost function of Logistic Regression?
+Logistic Regression,How to avoid the overfitting of Logistic Regression?
+Logistic Regression,What is the output of logistic function?
+Logistic Regression,How to use Logistic Regression for classification?
+Logistic Regression,Why we do not use mea square error as a cost function in Logistic Regression?
+Decision Tree,What is Decision Tree?
+Decision Tree,What are the advatanges of Decision Tree?
+Decision Tree,What are the disadvantages of Decision Tree?
+Decision Tree,What is information gain in the context of decision tree?
+Decision Tree,How does Decision Tree handle continuous variables?
+Decision Tree,How does Decision Tree handle discrete variables?
+Decision Tree,What is pruning in the context of decision tree?
+Decision Tree,What hyperparameters decision tree has?
+Decision Tree,What are criterions for splitting nodes in decision tree?
+Decision Tree,How to deal with overfitting in decision tree?
